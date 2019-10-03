@@ -3,6 +3,8 @@ This application present means of visualizing the UNHCR Refugee dataset over the
 
 Prototype Web visualisation as part of MSc Thesis: 
 VISUALIZATION OF TRENDS IN OD MATRIX DATA
-MARAL MALEKI
-ITC-University of Twente
+
+By MARAL MALEKI
+
+ITC-University of Twente, 
 Enschede, The Netherlands, February, 2016
